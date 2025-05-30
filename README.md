@@ -1,11 +1,12 @@
 # PF-DETECTOR
 
-PROCESO PARA LA CONSTRUCCIÓN, DESARROLLO E IMPLEMENTACIÓN DE LA APP MÓVIL
+P
 
 
-PROCESO PARA LA CONSTRUCCIÓN, DESARROLLO E 
-IMPLEMENTACIÓN DE LA APP MÓVIL 
-Objetivo 
+PROCESO PARA LA CONSTRUCCIÓN, DESARROLLO E IMPLEMENTACIÓN DE LA APP MÓVIL 
+
+Objetivo:
+
 Desarrollar una aplicación móvil para Android que capture una foto, la envíe a un servidor backend en AWS EC2 mediante una API REST, procese la imagen usando el modelo preentrenado YOLOv8 para detectar el objeto en la imagen y muestre la predicción en la aplicación móvil. 
 
 ![image](https://github.com/user-attachments/assets/a954c874-6663-4034-94fe-5c643edd09de)
